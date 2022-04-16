@@ -1,0 +1,4 @@
+packaging==21.3
+Pillow==9.1.0
+requests==2.27.1
+selenium==4.1.3
